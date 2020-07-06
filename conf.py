@@ -32,7 +32,7 @@ extensions = [
      'hoverxref.extension',
 ]
 
-hoverxref_project = 'sphinx-hoverxref'
+hoverxref_project = 'eon-docs'
 hoverxref_version = 'latest'
 hoverxref_api_host = 'https://readthedocs.org'
 
