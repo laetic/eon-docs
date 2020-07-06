@@ -27,6 +27,7 @@ This will :hoverxref:`show a tooltip <hoverxref2>` in the linked words to ``hove
 This will :hoverxref:`hoverxref` in the linked words to ``hoverxref``.
 
 This will :hoverxref:`hoverxref2` in the linked words to ``hoverxref``.
+
 .. _hoverxref:
 Section
 =======
