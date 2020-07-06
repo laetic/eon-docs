@@ -6,7 +6,7 @@ hoverxref_title
 ===========
 
 Hi from another completely different page!
-.. _hoverxref2:
+.. _hoverxref3:
 Section2
 ==========
 
@@ -23,7 +23,7 @@ hoverxref2_title
 ===========
 
 Hi from another completely different page!
-.. _hoverxref:
+.. _hoverxref4:
 Section
 =======
 
