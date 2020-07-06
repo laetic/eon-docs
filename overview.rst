@@ -32,10 +32,10 @@ Section
 =======
 This is the **content** of another section.
 
-Sub-section
------------
-
-Another small section, a sub-section.
+.. _hoverxref2:
+Another Section
+=======
+This is the **content** of another section.
 
 
 Cognex Computer Vision
