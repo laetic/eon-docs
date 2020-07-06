@@ -1,12 +1,13 @@
 :orphan:
 
-
+.. _hoverxref4:
 ===========
 hoverxref4
 ===========
 
 Hi from another completely different page!
 
+.. _hoverxref5:
 hoverxref5
 ==========
 
