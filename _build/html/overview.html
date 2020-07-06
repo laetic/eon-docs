@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overview &#8212; Eon Laser Marker  documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster.custom.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster.bundle.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-shadow.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-punk.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-noir.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-light.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/tooltipster-sideTip-borderless.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/micromodal.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/alabaster.css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="_static/js/hoverxref.js"></script>
+    <script src="_static/js/tooltipster.bundle.min.js"></script>
+    <script src="_static/js/micromodal.min.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="User’s Guide" href="users-guide.html" />
+    <link rel="prev" title="Eon Laser Marker Documentation v1.0" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="overview">
+<h1>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="components">
+<h2>Components<a class="headerlink" href="#components" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="telesis-laser-marker">
+<h3>Telesis Laser Marker<a class="headerlink" href="#telesis-laser-marker" title="Permalink to this headline">¶</a></h3>
+<p>The laser marker creates the black laser mark on the aligners. The laser marking head must be placed at the proper distance and calibrated to the proper zero location. See calibration. The laser is now aligned and should mark any patterns in the proper location. Merlin II is the control software for the Telesis laser marker. The pattern used is (pattern file name). This pattern contains the data matrix, letters, and the logo. It follows this basic logic:</p>
+<ul class="simple">
+<li><p>Go to the calibrated laser marking height (currently -1.00 inches from home)</p></li>
+<li><p>Trigger the camera</p></li>
+<li><p>Ask for the contents of the data matrix and client code.</p></li>
+<li><p>Ask for the X, Y and angle of the data matrix and client code.</p></li>
+<li><p>Mark the data matrix and client code</p></li>
+<li><p>Ask for the X, Y of the logo</p></li>
+<li><p>Mark the logo</p></li>
+</ul>
+<p>This will <span class="xref std std-hoverxref">show a tooltip</span> in the linked words to <code class="docutils literal notranslate"><span class="pre">hoverxref</span></code>.</p>
+</div>
+<div class="section" id="cognex-computer-vision">
+<h3>Cognex Computer Vision<a class="headerlink" href="#cognex-computer-vision" title="Permalink to this headline">¶</a></h3>
+<p>The cognex camera provides the X, Y, and angle of the data matrix and logo. To do this is uses a job file (job file name) which takes a picture of the aligners and finds the appropriate locations to mark. The job must be loaded onto the camera after a power cycle (configurable). The camera must also be placed online. This is done in Insight Explorer, the control software for the Cognex camera.</p>
+</div>
+<div class="section" id="lighting">
+<h3>Lighting<a class="headerlink" href="#lighting" title="Permalink to this headline">¶</a></h3>
+<p>An LED panel light provides uniform under lighting to the aligners. It is diffused so that the entire lighting box is roughly the same light intensity. If not diffused or at too high of an intensity, the light will be much brighter than the surrounding panels. The recommended control voltage is 2.5V. If adjusted make sure to adjust the exposure time in Insight Explorer.</p>
+</div>
+<div class="section" id="laser-enclosure">
+<h3>Laser Enclosure<a class="headerlink" href="#laser-enclosure" title="Permalink to this headline">¶</a></h3>
+<p>The laser enclosure makes sure no laser radiation or harmful reflections escape. The door is connected to an interlock switch which closes the laser shutter if the door is open.</p>
+</div>
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Eon Laser Marker</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Overview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#components">Components</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#telesis-laser-marker">Telesis Laser Marker</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#cognex-computer-vision">Cognex Computer Vision</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lighting">Lighting</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#laser-enclosure">Laser Enclosure</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="users-guide.html">User’s Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="calibration.html">Calibration</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">Eon Laser Marker Documentation v1.0</a></li>
+      <li>Next: <a href="users-guide.html" title="next chapter">User’s Guide</a></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2020, Richard Nguyen.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 3.1.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="_sources/overview.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
