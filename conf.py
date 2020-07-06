@@ -32,6 +32,14 @@ extensions = [
      'hoverxref.extension',
 ]
 
+hoverxref_role_types = {
+    'hoverxref': 'tooltip',
+    'ref': 'modal',
+    'confval': 'tooltip',
+    'mod': 'modal',
+    'class': 'modal',
+}
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 

@@ -1,7 +1,7 @@
 :orphan:
 
 ===========
- hoverxref
+hoverxref
 ===========
 
 Hi from another completely different page!
