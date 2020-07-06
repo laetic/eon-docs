@@ -24,9 +24,9 @@ This will :hoverxref:`show a tooltip <hoverxref:hoverxref2>` in the linked words
 
 This will :hoverxref:`show a tooltip <hoverxref2>` in the linked words to ``hoverxref``.
 
-This will :hoverxref:`show a tooltip <hoverxref3>` in the linked words to ``hoverxref``.
+This will :hoverxref:`show a tooltip <hoverxref:hoverxref3>` in the linked words to ``hoverxref``.
 
-This will :hoverxref:`show a tooltip <hoverxref4>` in the linked words to ``hoverxref``.
+This will :hoverxref:`show a tooltip <hoverxref:hoverxref4>` in the linked words to ``hoverxref``.
 
 This will :hoverxref:`hoverxref` in the linked words to ``hoverxref``.
 

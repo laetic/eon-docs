@@ -2,11 +2,11 @@
 
 
 ===========
-hoverxref_title
+hoverxref4
 ===========
 
 Hi from another completely different page!
-.. _hoverxref3:
+
 Section2
 ==========
 
@@ -19,11 +19,11 @@ Another small section, a sub-section.
 
 
 ===========
-hoverxref2_title
+hoverxref3
 ===========
 
 Hi from another completely different page!
-.. _hoverxref4:
+
 Section
 =======
 
