@@ -33,12 +33,12 @@ This will :hoverxref:`hoverxref` in the linked words to ``hoverxref``.
 This will :hoverxref:`hoverxref2` in the linked words to ``hoverxref``.
 
 .. _hoverxref:
-Section
+hoverxref
 =======
 This is the **content** of another section.
 
 .. _hoverxref2:
-Another Section
+hoverxref2
 =======
 This is the **content** of another section.
 
