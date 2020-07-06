@@ -1,5 +1,6 @@
 :orphan:
 
+.. _hoverxref2:
 ===========
 hoverxref
 ===========

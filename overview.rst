@@ -20,10 +20,16 @@ This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words 
 
 This will :hoverxref:`show a tooltip <hoverxref>` in the linked words to ``hoverxref``.
 
+This will :hoverxref:`show a tooltip <hoverxref:hoverxref2>` in the linked words to ``hoverxref``.
 
+This will :hoverxref:`show a tooltip <hoverxref2>` in the linked words to ``hoverxref``.
+
+This will :hoverxref:`hoverxref` in the linked words to ``hoverxref``.
+
+This will :hoverxref:`hoverxref2` in the linked words to ``hoverxref``.
+.. _hoverxref:
 Section
 =======
-.. _hoverxref:
 This is the **content** of another section.
 
 Sub-section
