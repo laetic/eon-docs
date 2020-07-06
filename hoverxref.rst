@@ -1,12 +1,12 @@
 :orphan:
 
-.. _hoverxref2:
-    ===========
-    hoverxref
-    ===========
+
+===========
+hoverxref_title
+===========
 
 Hi from another completely different page!
-
+.. _hoverxref2:
 Section2
 ==========
 
@@ -17,13 +17,13 @@ Sub-section2
 
 Another small section, a sub-section.
 
-.. _hoverxref:
-    ===========
-    hoverxref
-    ===========
+
+===========
+hoverxref2_title
+===========
 
 Hi from another completely different page!
-
+.. _hoverxref:
 Section
 =======
 
