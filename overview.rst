@@ -42,6 +42,8 @@ hoverxref2
 =======
 This is the **content** of another section.
 
+.. image:: 1.jpg
+  :width: 400
 
 Cognex Computer Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
