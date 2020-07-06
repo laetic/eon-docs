@@ -1,8 +1,17 @@
-hoverxref
---------------
+:orphan:
 
-here's the hoverxref content
+===========
+ hoverxref
+===========
 
-.. _hoverxref:
----------------
-test
+Hi from another completely different page!
+
+Section
+=======
+
+This is the **content** of another section.
+
+Sub-section
+-----------
+
+Another small section, a sub-section.
