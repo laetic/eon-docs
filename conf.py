@@ -32,6 +32,10 @@ extensions = [
      'hoverxref.extension',
 ]
 
+hoverxref_project = 'sphinx-hoverxref'
+hoverxref_version = 'latest'
+hoverxref_api_host = 'https://readthedocs.org'
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
