@@ -7,7 +7,7 @@ hoverxref4
 
 Hi from another completely different page!
 
-Section2
+hoverxref5
 ==========
 
 This is the **content** of another section.

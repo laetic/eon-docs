@@ -16,15 +16,15 @@ The laser marker creates the black laser mark on the aligners. The laser marking
 - Ask for the X, Y of the logo
 - Mark the logo
 
-This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``.
-
 This will :hoverxref:`show a tooltip <hoverxref>` in the linked words to ``hoverxref``.
+
+This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``.
 
 This will :hoverxref:`show a tooltip <hoverxref:hoverxref2>` in the linked words to ``hoverxref``.
 
 This will :hoverxref:`show a tooltip <hoverxref2>` in the linked words to ``hoverxref``.
 
-This will :hoverxref:`show a tooltip <hoverxref:hoverxref3>` in the linked words to ``hoverxref``.
+This will :hoverxref:`show a tooltip <hoverxref:hoverxref5>` in the linked words to ``hoverxref``.
 
 This will :hoverxref:`show a tooltip <hoverxref:hoverxref4>` in the linked words to ``hoverxref``.
 
