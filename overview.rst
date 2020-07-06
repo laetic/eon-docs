@@ -18,6 +18,10 @@ The laser marker creates the black laser mark on the aligners. The laser marking
 
 This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``.
 
+.. _hoverxref:
+---------------
+test
+
 Cognex Computer Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
