@@ -1,6 +1,9 @@
 hover
 ===========
 
+.. For unknown reasons the hovering only works if you double the .. : label and the section
+.. We'll just do it that way
+
 .. _hover1:
 hover1
 =============
@@ -12,22 +15,6 @@ This is the **content** of another section.
 .. _hover2:
 hover2
 =============
-This is the **content** of another section.
-
-    .. image:: images/1.jpg
-    :width: 400
-
-
-hover3
-=============
-This is the **content** of another section.
-
-    .. image:: images/1.jpg
-    :width: 400
-
-.. _hover4:
-A normal section
-=====================
 This is the **content** of another section.
 
     .. image:: images/1.jpg
