@@ -23,3 +23,11 @@ This is the **content** of another section.
 
     .. image:: images/1.jpg
     :width: 400
+
+.. _hover2:
+A normal section
+=============
+This is the **content** of another section.
+
+    .. image:: images/1.jpg
+    :width: 400
