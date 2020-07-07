@@ -13,7 +13,6 @@ Eon Laser Marker Documentation v1.0
    overview
    users-guide
    calibration
-   hover
 
 
 Indices and tables
