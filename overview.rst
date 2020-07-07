@@ -26,7 +26,7 @@ Cognex Computer Vision
 
 The :hoverxref:`Cognex camera <cognex-camera-1>` provides the X, Y, and angle of the data matrix and logo. To do this is uses a job file ``TO BE INCLUDED`` which takes a picture of the aligners and finds the appropriate locations to mark. The job must be loaded onto the camera after a power cycle (configurable). The camera must also be placed online. This is done in :hoverxref:`Insight Explorer <insight-1>`, the control software for the Cognex camera. The job file follows this basic logic:
 
-- :abbr:`Recall a fixed zero point. (The camera should remain fixed at all times and reduces drift compared to a found fixture)`
+- :abbr:`Recall (The camera should remain fixed at all times and reduces drift compared to a found fixture)` a fixed zero point.
 - Find 4 edge points, roughly around the molars, for the aligner near the zero point. 
 - Find the middle of these 4 edge points
 - Calculate the X, Y and rotation of this middle point in real world units
@@ -44,7 +44,7 @@ An :hoverxref:`LED panel light <led-1>` light provides uniform under lighting to
 Laser Enclosure
 ~~~~~~~~~~~~~~~~~
 
-The laser enclosure makes sure no laser radiation or harmful reflections escape. The door is connected to an interlock switch which closes the :hoverxref:`laser shutter <laser-marker-2>` if the door is open. 
+The laser enclosure makes sure no laser radiation or harmful reflections escape. The door is connected to an interlock switch which closes the :hoverxref:`laser shutter <laser-marker-2>` if the door is open. The laser marker will only operate when the door is closed. 
 
 Picture catalog
 - overall laser marker
