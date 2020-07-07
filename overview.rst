@@ -22,8 +22,9 @@ This will :hoverxref:`<hoverxref:hover1>` in the linked words to ``fdfdf``.
 
 This will :hoverxref:`<hover1>` in the linked words to ``fdfdf``.
 
-
 This will :hoverxref:`show a tooltip <hover2>` in the linked words to ``fdfd``.
+
+This will :hoverxref:`show a tooltip <hover1>` in the linked words to ``fdfd``.
 
 Other one :doc:`this is a doc <hover>`
 
