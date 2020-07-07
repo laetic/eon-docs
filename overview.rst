@@ -24,7 +24,7 @@ The :hoverxref:`laser marker <laser-marker-1>` creates the black laser mark on t
 Cognex Computer Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The :hoverxref:`Cognex camera <cognex-camera-1>` provides the X, Y, and angle of the data matrix and logo. To do this is uses a job file ``TO BE INCLUDED`` which takes a picture of the aligners and finds the appropriate locations to mark. The job must be loaded onto the camera after a power cycle (configurable). The camera must also be placed online. This is done in :hoverxref:`Insight Explorer <insight-1>`, the control software for the Cognex camera. The job file follows this basic logic:
+The :hoverxref:`Cognex camera <cognex-1>` provides the X, Y, and angle of the data matrix and logo. To do this is uses a job file ``TO BE INCLUDED`` which takes a picture of the aligners and finds the appropriate locations to mark. The job must be loaded onto the camera after a power cycle (configurable). The camera must also be placed online. This is done in :hoverxref:`Insight Explorer <insight-1>`, the control software for the Cognex camera. The job file follows this basic logic:
 
 - :abbr:`Recall (The camera should remain fixed at all times and reduces drift compared to a found fixture)` a fixed zero point.
 - Find 4 edge points, roughly around the molars, for the aligner near the zero point. 
@@ -47,12 +47,13 @@ Laser Enclosure
 The laser enclosure makes sure no laser radiation or harmful reflections escape. The door is connected to an interlock switch which closes the :hoverxref:`laser shutter <laser-marker-2>` if the door is open. The laser marker will only operate when the door is closed. 
 
 Picture catalog
-- overall laser marker
-- laser shutter controls
-- cognex camera
-- merlin II general
-- insight explorer general
-- insight explorer exposure time
-- LED panel light
-- LED panel control knob
-- LED too high intensity
+
+- laser-1 overall laser marker
+- laser-2 laser shutter controls and enable controls and aiming
+- cognex-1 cognex camera
+- merlin-1 merlin II general
+- insight-1 insight explorer general
+- insight-2 insight explorer exposure time
+- led-1 LED panel light
+- led-2 LED panel control knob
+- led-3 LED too high intensity
