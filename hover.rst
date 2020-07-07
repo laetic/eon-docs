@@ -1,15 +1,13 @@
-hover
-==========
-.. _hoverxref4:
-    hoverxref4
+.. _hover1:
+    hover1
     =============
     This is the **content** of another section.
 
     .. image:: images/2.jpg
         :width: 400
 
-.. _hoverxref5:
-    hoverxref5
+.. _hover2:
+    hover2
     =============
     This is the **content** of another section.
 
