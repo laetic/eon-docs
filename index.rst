@@ -7,13 +7,13 @@ Eon Laser Marker Documentation v1.0
 ===========================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    
-   docs/overview
-   docs/users-guide
-   docs/calibration
-   docs/hoverxref
+   overview
+   users-guide
+   calibration
+   hoverxref
 
 
 Indices and tables
