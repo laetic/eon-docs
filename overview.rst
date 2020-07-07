@@ -16,36 +16,11 @@ The laser marker creates the black laser mark on the aligners. The laser marking
 - Ask for the X, Y of the logo
 - Mark the logo
 
-This will :hoverxref:`show a tooltip <hoverxref>` in the linked words to ``hoverxref``.
-
-This will :hoverxref:`show a tooltip <hoverxref:hoverxref>` in the linked words to ``hoverxref``.
-
-This will :hoverxref:`show a tooltip <hoverxref:hoverxref2>` in the linked words to ``hoverxref``.
-
-This will :hoverxref:`show a tooltip <hoverxref2>` in the linked words to ``hoverxref``.
+This will :hoverxref:`show a tooltip <hoverxref4>` in the linked words to ``hoverxref``.
 
 This will :hoverxref:`show a tooltip <hoverxref5>` in the linked words to ``hoverxref``.
 
-This will :hoverxref:`show a tooltip <hoverxref:hoverxref5>` in the linked words to ``hoverxref``.
 
-This will :hoverxref:`show a tooltip <hoverxref:hoverxref4>` in the linked words to ``hoverxref``.
-
-This will :hoverxref:`hoverxref` in the linked words to ``hoverxref``.
-
-This will :hoverxref:`hoverxref2` in the linked words to ``hoverxref``.
-
-.. _hoverxref:
-hoverxref
-=======
-This is the **content** of another section.
-
-.. _hoverxref2:
-hoverxref2
-=======
-This is the **content** of another section.
-
-.. image:: 1.jpg
-  :width: 400
 
 Cognex Computer Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

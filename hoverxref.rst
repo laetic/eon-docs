@@ -7,3 +7,5 @@ This is the **content** of another section.
 hoverxref5
 =======
 This is the **content** of another section.
+.. image:: 1.jpg
+  :width: 400
