@@ -21,7 +21,7 @@ This is the **content** of another section.
     :width: 400
 
 .. _laser-marker-2:
-laser-marker-1
+laser-marker-2
 ================================
 This is the **content** of another section.
 
@@ -61,7 +61,7 @@ This is the **content** of another section.
     :width: 400
 
 .. _insight-1:
-IE-1
+insight-1
 ================================
 This is the **content** of another section.
 
@@ -69,7 +69,7 @@ This is the **content** of another section.
     :width: 400
 
 .. _insight-2:
-IE-2
+insight-2
 ================================
 This is the **content** of another section.
 
