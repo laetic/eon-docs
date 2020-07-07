@@ -1,3 +1,5 @@
+hover
+==========
 .. _hoverxref4:
     hoverxref4
     =============
