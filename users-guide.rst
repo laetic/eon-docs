@@ -10,7 +10,7 @@ Placement in the thermoformer should be within 3mm of the :hoverxref:`porous pad
 
 Laser Cabinet Preparation
 ------------------------------
-Power on all components. :hoverxref:`The laser source <laser-marker-3>`, :hoverxref:`temperature controller <laser-marker-4>`, :hoverxref:`fumex ventilation <cabinet-2>`and laser :hoverxref:`marking PC <laser-marker-6>`. The laser source and laser marking PC have a physical lock and key which prevents power up if not unlocked. 
+Power on all components. :hoverxref:`The laser source <laser-marker-3>`, :hoverxref:`temperature controller <laser-marker-4>`, :hoverxref:`fumex ventilation <cabinet-2>` and laser :hoverxref:`marking PC <laser-marker-6>`. The laser source and laser marking PC have a physical lock and key which prevents power up if not unlocked. 
 
 Start :hoverxref:`Merlin II <merlin-1>` on the laser marking PC. Load the latest pattern with the appropriate logo to be marked. 
 
@@ -24,13 +24,13 @@ Make sure that the :hoverxref:`ventilation hood <cabinet-1>` is close to the mar
 
 Operation
 ---------------------
-Place the aligner onto the marking platform. The best marking position is where the right side of the back right molar is next to the zeroing pin, the larger of the two pins. It is not necessary to exactly place the aligner in this position because the camera can adjust the marking position. As long as the aligner is close (within 5mm) the camera will provide a good marking position. 
+Place the aligner onto the :hoverxref:`marking platform <aligner-5>`. The :hoverxref:`best marking position <aligner-6>` is where the right side of the back right molar is next to the zeroing pin, the larger of the two pins. It is not necessary to exactly place the aligner in this position because the camera can adjust the marking position. As long as the aligner is close (within 5mm) the camera will provide a good marking position. 
 
-The camera can be manually triggered to inspect the marking position. The red dot will move to the first marking position. Triggering happens automatically when the merlin pattern is run as well. 
+The camera can be :hoverxref:`manually triggered <insight-4>` to inspect the marking position. The :hoverxref:`red dot will move <aligner-7>` to the first marking position. Triggering happens automatically when the merlin pattern is run. 
 
-Close the cabinet door. The shutter for the laser will not open until the laser cabinet door is closed. It will also disable the laser if the door is opened while the laser is running. 
+Close the cabinet door. The shutter for the laser will :hoverxref:`not open <laser-marker-10>` until the laser cabinet door is closed. It will also disable the laser if the door is opened while the laser is running. 
 
-Run the merlin pattern by pressing F2 or pressing the Go button. This opens a window for counts. Mark 1 count by pressing Enter. The laser should mark the data matrix, backup code, and logo within 12 seconds. 
+Run the merlin pattern by pressing F2 or pressing the :hoverxref:`Go button <merlin-4>`. This opens a :hoverxref:`window for counts <merlin-5>`. Mark 1 count by pressing Enter. The laser should mark the :hoverxref:`data matrix, backup code, and logo <aligner-8>` within 12 seconds. 
 
 When the mark is complete, open the cabinet door and remove the aligner. The opposite side or next aligner can be loaded next by repeating the operation steps. 
 
@@ -40,12 +40,19 @@ Picture List
 - aligner-2 3mm of porous pad
 - aligner-3 highlight separation between aligners
 - aligner-4 example of Rotation
+- aligner-5 aligner in the marking appropriate
+- aligner-6 best marking position
+- aligner-7 red dot on first marking position
+- aligner-8 aligner with all marks
 - laser-marker-3 laser source box
 - laser-marker-4 temperature controller
 - laser-marker-6 marking PC
 - merlin-2 online button for merlin
 - merlin-3 park button for merlin
+- merlin-4 go button for merlin
+- merlin-5 counts window for merlin
 - laser-marker-9 laser diode position when parked
+- laser-marker-10 shutter interlock triggered
 - insight-3 online mode for camera
 - insight-4 trigger is manually pressed
 - insight-5 connection output signal
