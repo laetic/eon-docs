@@ -17,6 +17,7 @@ This is the **content** of another section.
     .. image:: images/1.jpg
     :width: 400
 
+
 hover3
 =============
 This is the **content** of another section.
@@ -24,9 +25,9 @@ This is the **content** of another section.
     .. image:: images/1.jpg
     :width: 400
 
-.. _hover3:
+.. _hover4:
 A normal section
-=============
+=====================
 This is the **content** of another section.
 
     .. image:: images/1.jpg
