@@ -3,7 +3,7 @@
     =============
     This is the **content** of another section.
 
-    .. image:: images\2.jpg
+    .. image:: images\\2.jpg
         :width: 400
 
 .. _hoverxref5:
@@ -11,5 +11,5 @@
     =============
     This is the **content** of another section.
 
-        .. image:: images\1.jpg
+        .. image:: images\\1.jpg
             :width: 400

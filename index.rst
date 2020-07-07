@@ -7,7 +7,7 @@ Eon Laser Marker Documentation v1.0
 ===========================================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents:
    
    overview
