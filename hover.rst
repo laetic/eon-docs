@@ -20,7 +20,7 @@ This is the **content** of another section.
     .. image:: images/2.jpg
     :width: 400
 
-.. _laser-marker-1:
+.. _laser-marker-2:
 laser-marker-1
 ================================
 This is the **content** of another section.
@@ -36,23 +36,31 @@ This is the **content** of another section.
     .. image:: images/2.jpg
     :width: 400
 
-.. _LED-1:
-LED-1
+.. _led-1:
+led-1
 ================================
 This is the **content** of another section.
 
     .. image:: images/2.jpg
     :width: 400
 
-.. _LED-2:
-LED-2
+.. _led-2:
+led-2
 ================================
 This is the **content** of another section.
 
     .. image:: images/2.jpg
     :width: 400
 
-.. _IE-1:
+.. _merlin-1:
+merlin-1
+================================
+This is the **content** of another section.
+
+    .. image:: images/2.jpg
+    :width: 400
+
+.. _insight-1:
 IE-1
 ================================
 This is the **content** of another section.
@@ -60,7 +68,7 @@ This is the **content** of another section.
     .. image:: images/2.jpg
     :width: 400
 
-.. _IE-2:
+.. _insight-2:
 IE-2
 ================================
 This is the **content** of another section.
